@@ -1,6 +1,6 @@
 ![MasterHead](https://camo.githubusercontent.com/1cc4a09c2e1425ea8299bad1e673df6139b484072801bede9a1d098a24981328/68747470733a2f2f692e6962622e636f2f6b3234343135622f4769746875622d42616e6e65722e676966)
 <h1 align="center">Hi 👋, I'm NANCY SRIVASTAVA</h1>
-<h3 align="center">A passionate Data Scientist and web developer from India</h3>
+<h3 align="center">A passionate Data Scientist and Web Developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/601014116770475.6068beff4640a.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nansri108&label=Profile%20views&color=0e75b6&style=flat" alt="nansri108" /> </p>
