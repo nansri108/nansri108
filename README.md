@@ -3,7 +3,6 @@
 <h3 align="center">A passionate Data Scientist and web developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/601014116770475.6068beff4640a.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=nansri108&label=Profile%20views&color=0e75b6&style=flat" alt="nansri108" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nansri108" alt="nansri108" /></a> </p>
 
@@ -43,3 +42,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nansri108&show_icons=true&locale=en" alt="nansri108" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nansri108&" alt="nansri108" /></p>
+
