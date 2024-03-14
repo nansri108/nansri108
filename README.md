@@ -15,10 +15,6 @@
 
 - 🤝 I’m looking for help with **Deep Learning**
 
-- 👨‍💻 All of my projects are available at [https://nansri108.jimdofree.com/?preview_sid=877745](https://nansri108.jimdofree.com/?preview_sid=877745)
-
-- 📝 I regularly write articles on [https://medium.com/@nansri108](https://medium.com/@nansri108)
-
 - 💬 Ask me about **Data Science , web development , Java and Data Structures.**
 
 - 📫 How to reach me **srivastavanancy55@gmail.com**
